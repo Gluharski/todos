@@ -1,2 +1,5 @@
-# music-playlist
+# Todolist App
  
+### Tech stack:
+- [ ] Typescript
+- [ ] SASS
