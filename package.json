@@ -1,0 +1,23 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "- [ ] Typescript\r - [ ] SASS",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gluharski/todos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gluharski/todos/issues"
+  },
+  "homepage": "https://github.com/Gluharski/todos#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
